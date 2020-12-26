@@ -1,7 +1,5 @@
 # TwitKit
 
-[README](README.md) | [中文文档](README_zh.md)
-
 TwitKit是一个面向推文翻译工作的开源套件。基于微服务架构设计，组件间均使用REST API通信。
 
 ### 主要贡献者
