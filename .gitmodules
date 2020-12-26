@@ -1,0 +1,12 @@
+[submodule "fridge"]
+	path = fridge
+	url = https://github.com/EnkanRec/TwitKit-Fridge
+[submodule "oven"]
+	path = oven
+	url = https://github.com/EnkanRec/TwitKit-Oven
+[submodule "maid"]
+	path = maid
+	url = https://github.com/EnkanRec/TwitKit-Maid
+[submodule "koishi-app"]
+	path = koishi-app
+	url = https://github.com/EnkanRec/TwitKit-KoishiApp
